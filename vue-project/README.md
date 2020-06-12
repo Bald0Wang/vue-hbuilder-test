@@ -31,19 +31,19 @@ npm run build
 
 ![p1](./mdImg/p1.png)
 
-![](./\mdImg\p2.png)
+![](./mdImg/p2.png)
 
 2. 删除项目的css img js index
 
-![p3](./mdImg\p3.png)
+![p3](./mdImg/p3.png)
 
 3. 把刚才npm run build生成的dist文件里static和index拷贝近新创建的项目
-   ![p4](./mdImg\p4.png)
+   ![p4](./mdImg/p4.png)
 
 4. 点击manifest.json文件然后发行
 
-   ![p5](./mdImg\p5.png)
-   进行如下配置![p6](./\mdImg\p6.png)
+   ![p5](./mdImg/p5.png)
+   进行如下配置![p6](./mdImg/p6.png)
 
 5. 下载安装即可
-   ![p7](./mdImg\p7.png)
+   ![p7](./mdImg/p7.png)
