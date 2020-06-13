@@ -1,9 +1,12 @@
-# vuetest
-
-> test
+# vue+hbuilder 项目文件
+> 本项目用于制作[vue](https://cn.vuejs.org/)+[hbuilder](https://www.dcloud.io/hbuilderx.html)手机app教程以及简单框架'
+![](./mdImg/vue.png)  
+![](./mdImg/hbuilder.png)
+> 同时vue UI采用[iview](http://v1.iviewui.com/) ui框架
+![](./mdImg/iview.png)
 
 ## Build Setup
-
+vue部分  在新项目文件夹下执行：
 ``` bash
 # install dependencies
 npm install
@@ -26,7 +29,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 # 在vue目录下
 npm run build 
 ```
-
+打开hbuilderx
 1. 新建项目
 
 ![p1](./mdImg/p1.png)
@@ -47,3 +50,10 @@ npm run build
 
 5. 下载安装即可
    ![p7](./mdImg/p7.png)
+
+6. 手机安装成图
+   ![p8](./mdImg/p8.jpg)
+
+# 作者
+
+宁夏大学云计算与智能媒体信息处理实验室
