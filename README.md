@@ -1,7 +1,7 @@
 # vue+hbuilder 项目文件
 > 本项目用于制作[vue](https://cn.vuejs.org/)+[hbuilder](https://www.dcloud.io/hbuilderx.html)手机app教程以及简单框架'
-![](./mdImg/vue.png)  
-![](./mdImg/hbuilder.png)
+
+<img src="./mdImg/vue.png" style="zoom:30%"> <img src="./mdImg/hbuilder.png" style="zoom:80%">
 > 同时vue UI采用[iview](http://v1.iviewui.com/) ui框架
 ![](./mdImg/iview.png)
 
